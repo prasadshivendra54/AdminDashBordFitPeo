@@ -1,4 +1,4 @@
-import Wallet from "@/components/Wallet/Wallet";
+import Wallet from "@/Components/Wallet/Wallet";
 import React from "react";
 
 const Page = () => {

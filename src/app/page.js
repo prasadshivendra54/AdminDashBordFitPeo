@@ -1,7 +1,7 @@
 
-import Dashbord from "@/components/Dashbord/Dashbord";
-import Sidebar from "@/components/Sidebar/Sidebar";
-import TopNavbar from "@/components/TopNavbar/TopNavbar";
+import Dashbord from "@/Components/Dashbord/Dashbord";
+import Sidebar from "@/Components/Sidebar/Sidebar";
+import TopNavbar from "@/Components/TopNavbar/TopNavbar";
 import Image from "next/image";
 
 export default function Home() {
