@@ -1,4 +1,4 @@
-import Inventry from "@/Components/Inventry/Inventry";
+import Inventry from "@/components/Inventry/Inventry";
 import React from "react";
 
 const Page = () => {

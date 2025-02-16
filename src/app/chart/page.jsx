@@ -1,4 +1,4 @@
-import Chart from "@/Components/Chart/Chart";
+import Chart from "@/components/Chart/Chart";
 import React from "react";
 
 const Page = () => {
